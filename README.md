@@ -1,6 +1,4 @@
-# Ng2-Restangular
-
-
+# Ng2-Restangular (deprecated due-to Angular SemVer, please use [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular/) instead)
 
 This project is the follow-up of the [Restangular](https://github.com/mgonto/restangular/). Ng2-Restangular is an Angular 2 service that simplifies common GET, POST, DELETE, and UPDATE requests with a minimum of client code.
 It's a perfect fit for any WebApp that consumes data from a RESTful API.
