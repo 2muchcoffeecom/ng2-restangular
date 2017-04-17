@@ -1,4 +1,4 @@
-# Current stage (RENAMED due to Angular SemVer, please use [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular/) instead)
+# Current stage ([Team of maintainers](https://2muchcoffee.com/) had to RENAME project due to Angular SemVer, please use [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular/) instead)
 
 This project was renamed from **ng2-restangular** to [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular/) due to implementation of Semantic Versioning by Angular Core Team. NPM name also changed, you can install actual version of project with ``npm install ngx-restangular``, as example.
 
@@ -11,11 +11,6 @@ It's a perfect fit for any WebApp that consumes data from a RESTful API.
 
 Live Demo on Plunkr [Hero App](http://embed.plnkr.co/qozGPV2HowzmtKbC9a54/).
 You can also check post about using ng2-restangular with [restdb.io](https://restdb.io/) service in [simple TODO Application](http://blog.2muchcoffee.com/angular_todo_application_with_ng2-restangular_and_restdb-io/)
-
-# Current stage
-
-Ng2-Restangular almost all functionality was transferred from the Restangular.
-We are open to any cooperation in terms of its further development.
 
 # Table of contents
 
@@ -1420,7 +1415,7 @@ Users reported that this server frameworks play real nice with Ng2-Restangular, 
 * Slim Framework
 * Symfony2 with FOSRestBundle (PHP)
 * Microsoft ASP.NET Web API 2
-* Grails Framework ([example](https://github.com/rmondejar/grails-angular-duo))
+* Grails Framework
 
 **[Back to top](#table-of-contents)**
 
