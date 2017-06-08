@@ -2,7 +2,7 @@
   "name": "ng2-restangular",
   "version": "0.1.30",
   "description": "ng2-restangular",
-  "main": "./dist/umd/ng2-restangular.js",
+  "main": "./dist/umd/ngx-restangular.js",
   "module": "./dist/esm/src/index.js",
   "typings": "./dist/esm/src/index.d.ts",
   "scripts": {
